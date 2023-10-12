@@ -15,6 +15,7 @@ const Content = (props) => {
     
     </div>
   )
+  
 }
 const Total = (props) => {
   
