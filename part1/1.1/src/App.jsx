@@ -5,6 +5,7 @@ const Header = (props) => {
     </div>
   )
 }
+
 const Content = (props) => {
   return (
     <div>
